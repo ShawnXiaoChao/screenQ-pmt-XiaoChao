@@ -1,6 +1,6 @@
 clc;
 clear all;
-import test.computeDTDMedian;
+import DTDprocess.computeDTDMedian;
 %load data
 load firmSpecific.mat;
 load firmList.mat;
